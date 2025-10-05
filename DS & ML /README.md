@@ -163,5 +163,3 @@ jp
 | Launch Jupyter    | `jupyter notebook`                       |
 
 ---
-
-Would you like me to add **Part 2** next — where we set up the **libraries for ML (NumPy, pandas, scikit-learn, matplotlib, seaborn, etc.)** and verify everything works inside Jupyter Notebook?
